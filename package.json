@@ -69,10 +69,10 @@
     "markdownlint": "^0.35.0",
     "markdownlint-cli": "^0.41.0",
     "rimraf": "^5.0.10",
-    "rollup": "^4.52.5",
+    "rollup": "^4.59.0",
     "rollup-plugin-dts": "^6.2.3",
     "typescript": "^5.6.2",
-    "vitest": "^3.2.4"
+    "vitest": "^3.2.6"
   },
   "scripts": {
     "increment": "pnpm version patch --no-git-tag-version",
